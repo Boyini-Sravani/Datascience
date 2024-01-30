@@ -1,4 +1,3 @@
-#pytesseract.pytesseract.tesseract_cmd = r'C:\Users\kdata\Desktop\KODI WORK\0. DATASCIENCE PROJECT\28. Number plate detection'
 # NUMBER PLATE DETECTION USING PYTESSARACT 
 
 
